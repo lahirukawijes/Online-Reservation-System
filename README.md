@@ -8,4 +8,6 @@ This site aim is an online hotel reservation system which can be used by custome
 
 First of all you can load the Home Page of this web site. It contains the images of Hotel Summit logo and web banner. Clicking Rooms tab in the Home page will navigate you to the ROOMS.html page in web site. If you want to book rooms of our hotel, you can click on any picture of a room or simply select the Order Tab and go to the ORDER.html page. Fill in the textbox in online booking form and click submit button. Next you go to Order.php. If your registration is correct, you will see “ok thank you” message and if your registration is in incorrect, you will see “unable to connect”. Then your order form will be submitted to the company. You will be informed about the information regarding your order, through the contact information that you supplied. If you feel like cancelling the order while filling the order form, you can click the Cancel button. Then you can submit your order in another day.
 
+If you want to know about the hotel details, you can reach the About Page by clicking the “About” tab in any page.
+When you face any matter regarding Hotel Summit, you can go to the Contact Page and contact the hotel staff. You can go to the Contact Page by clicking the “Contact" Tab in any page.
 
